@@ -1,0 +1,43 @@
+.explanation { /* just for the explanation */
+    max-width: 800px; /* this way you can limit the size of an element */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+    color: lightblue;
+    
+}
+
+dt {
+    border: 2px;
+border-color: violet;
+border-style: dashed;
+    color: aqua;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    background-color: red;
+    
+}
+dd{
+    background-color: cadetblue;
+}
+
+
+
+
+
+
+.cat-img {
+    border: 2px solid #333; 
+    border-radius: 10px;   
+    margin: 5px;     
+    transition: transform 0.3s ease-in-out; 
+  }
+  
+
+  .cat-img:hover {
+    filter: grayscale(100%);
+    transform: scale(1.2);  
+  }
+  

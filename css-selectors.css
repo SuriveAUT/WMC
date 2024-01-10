@@ -1,0 +1,22 @@
+.footer {
+    color:gray;
+    font-size: small;
+}
+
+#contact {
+    color: black;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+#more {
+    color: red;
+    font-size: large;
+}
+
+#strapline {
+    text-decoration: underline;
+}
